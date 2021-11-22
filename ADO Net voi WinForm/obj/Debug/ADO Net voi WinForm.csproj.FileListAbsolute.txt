@@ -1,0 +1,16 @@
+E:\Teaching\IT\OU\HK211\LTCSDL\ThucHanh\ADONET\ADO Net voi WinForm\ADO Net voi WinForm\bin\Debug\ADO Net voi WinForm.exe.config
+E:\Teaching\IT\OU\HK211\LTCSDL\ThucHanh\ADONET\ADO Net voi WinForm\ADO Net voi WinForm\bin\Debug\ADO Net voi WinForm.exe
+E:\Teaching\IT\OU\HK211\LTCSDL\ThucHanh\ADONET\ADO Net voi WinForm\ADO Net voi WinForm\bin\Debug\ADO Net voi WinForm.pdb
+E:\Teaching\IT\OU\HK211\LTCSDL\ThucHanh\ADONET\ADO Net voi WinForm\ADO Net voi WinForm\bin\Debug\LTCSDL.BLL.dll
+E:\Teaching\IT\OU\HK211\LTCSDL\ThucHanh\ADONET\ADO Net voi WinForm\ADO Net voi WinForm\bin\Debug\LTCSDL.DTO.dll
+E:\Teaching\IT\OU\HK211\LTCSDL\ThucHanh\ADONET\ADO Net voi WinForm\ADO Net voi WinForm\bin\Debug\LTCSDL.DAL.dll
+E:\Teaching\IT\OU\HK211\LTCSDL\ThucHanh\ADONET\ADO Net voi WinForm\ADO Net voi WinForm\bin\Debug\LTCSDL.BLL.pdb
+E:\Teaching\IT\OU\HK211\LTCSDL\ThucHanh\ADONET\ADO Net voi WinForm\ADO Net voi WinForm\bin\Debug\LTCSDL.DTO.pdb
+E:\Teaching\IT\OU\HK211\LTCSDL\ThucHanh\ADONET\ADO Net voi WinForm\ADO Net voi WinForm\bin\Debug\LTCSDL.DAL.pdb
+E:\Teaching\IT\OU\HK211\LTCSDL\ThucHanh\ADONET\ADO Net voi WinForm\ADO Net voi WinForm\obj\Debug\ADO Net voi WinForm.csproj.AssemblyReference.cache
+E:\Teaching\IT\OU\HK211\LTCSDL\ThucHanh\ADONET\ADO Net voi WinForm\ADO Net voi WinForm\obj\Debug\ADO_Net_voi_WinForm.Form1.resources
+E:\Teaching\IT\OU\HK211\LTCSDL\ThucHanh\ADONET\ADO Net voi WinForm\ADO Net voi WinForm\obj\Debug\ADO_Net_voi_WinForm.Properties.Resources.resources
+E:\Teaching\IT\OU\HK211\LTCSDL\ThucHanh\ADONET\ADO Net voi WinForm\ADO Net voi WinForm\obj\Debug\ADO Net voi WinForm.csproj.GenerateResource.cache
+E:\Teaching\IT\OU\HK211\LTCSDL\ThucHanh\ADONET\ADO Net voi WinForm\ADO Net voi WinForm\obj\Debug\ADO Net voi WinForm.csproj.CoreCompileInputs.cache
+E:\Teaching\IT\OU\HK211\LTCSDL\ThucHanh\ADONET\ADO Net voi WinForm\ADO Net voi WinForm\obj\Debug\ADO Net voi WinForm.exe
+E:\Teaching\IT\OU\HK211\LTCSDL\ThucHanh\ADONET\ADO Net voi WinForm\ADO Net voi WinForm\obj\Debug\ADO Net voi WinForm.pdb
